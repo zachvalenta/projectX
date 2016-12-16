@@ -51,3 +51,6 @@ Edges:
 In this case, would need to calculate routes from SoftBank to Alibaba in the whole graph. That would be: (SoftBank, Alibaba), (SoftBank, Masayoshi Son, Jack Ma, Alibaba), (Alibaba, Jack Ma, Masayoshi Son, SoftBank). The last two are the same actually - nodes are just in different order (would need to check for that to reduce redundancy in results). 
 
 
+
+
+[![Join the chat at https://gitter.im/projectXEZ/Lobby](https://badges.gitter.im/projectXEZ/Lobby.svg)](https://gitter.im/projectXEZ/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
