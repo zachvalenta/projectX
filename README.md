@@ -6,6 +6,7 @@ ITJuzi?
 Tech in Asia's own database
 
 https://www.buzzfeed.com/johntemplon/help-us-map-trumpworld?utm_term=.duxn2mmLZ#.hnMp4VVRD
+force directed graph D3
 
 What am I interested in?
 - investments received and given by companies and individuals
